@@ -14,7 +14,7 @@ version 17
 *-------------------------------------------------------
 
 * Set this to the location of the cloned repository.
-global root "C:/Users/miche/Downloads/rd-meyersson-2014"
+global root "file directory"
 
 *-------------------------------------------------------
 * 2. PROJECT PATHS
